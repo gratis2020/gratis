@@ -1,0 +1,8 @@
+#EXTM3U 
+
+#EXTINF:0,-PAT-
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="PAT" ,•●★-- PAT --★●•
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-XIpqllJjey8/XQKu2rcm7YI/AAAAAAAAJp4/IGUmMs3nwowKdkMuwgpfaI4VFGHNb3z6QCK4BGAYYCw/s1600/glossy%2Bplay%2Bbutton.png" group-title="PAT",PAPI Y MAMI
+https://www.dropbox.com/s/3bnx11g3q3u5zpi/PAPIYMAMI.m3u?dl=1
