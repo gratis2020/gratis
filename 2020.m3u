@@ -1712,7 +1712,7 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgra
 
 #EXTINF:0,-RADIOS-
 
-#EXTINF:-1 tvg-logo="" group-title="RADIOS" ,•●★-- RADIOS --★●•
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/151183/isolated/preview/f8740a62cd25d5215b225f5fd6c881cc-icono-de-radio-port--til-by-vexels.png" group-title="RADIOS" ,•●★-- RADIOS --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:0 tvg-logo="" group-title="RADIOS",Dinamica 
+#EXTINF:0 tvg-logo="https://i.imgur.com/UfvxE7w.png" group-title="RADIOS",Radio Dinamica 
 http://stream6.eltelon.com/dinamica.aac
