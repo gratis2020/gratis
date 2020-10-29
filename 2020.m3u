@@ -93,7 +93,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://desportes2017.files.wordpress.com/2017/11/cropped-pelotas1.png?w=532" group-title="DEPORTES" ,•●★-- DEPORTES --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cicadex.com/wp-content/uploads/2016/08/FP-3715-logo-3-4-LH-copy.png" group-title="DEPORTES",Fulbol 1
+#EXTINF:-1 tvg-logo="https://cicadex.com/wp-content/uploads/2016/08/FP-3715-logo-3-4-LH-copy.png" group-title="DEPORTES",Futbol 1
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/00b315e2ff3d457cb01143954c49ae33/v3_1.m3u8
 #EXTINF:-1 tvg-logo="https://cicadex.com/wp-content/uploads/2016/08/FP-3715-logo-3-4-LH-copy.png" group-title="DEPORTES",Futbol 2
 http://45.134.21.230/hls/T1.m3u8
