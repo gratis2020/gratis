@@ -92,6 +92,15 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://desportes2017.files.wordpress.com/2017/11/cropped-pelotas1.png?w=532" group-title="DEPORTES" ,•●★-- DEPORTES --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cicadex.com/wp-content/uploads/2016/08/FP-3715-logo-3-4-LH-copy.png" group-title="DEPORTES",Fulbol 1
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/00b315e2ff3d457cb01143954c49ae33/v3_1.m3u8
+#EXTINF:-1 tvg-logo="https://cicadex.com/wp-content/uploads/2016/08/FP-3715-logo-3-4-LH-copy.png" group-title="DEPORTES",Futbol 2
+http://45.134.21.230/hls/T1.m3u8
+#EXTINF:-1 tvg-logo="https://cicadex.com/wp-content/uploads/2016/08/FP-3715-logo-3-4-LH-copy.png" group-title="DEPORTES",Futbol 3
+https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTES",Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
